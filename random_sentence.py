@@ -34,7 +34,7 @@ def walk_graph(graph, distance=5, start_node=None):
 
 if __name__ == "__main__":
     
-    path = "lebowskiQuote.txt"
+    path = "lebowski_quotes.md"
     with open(path) as f:
         text = f.read()
     #print(re.split('\w+', text))
