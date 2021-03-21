@@ -53,4 +53,4 @@ if __name__ == "__main__":
         
     for i in range(10):
         print(' '.join(walk_graph(
-            markov_graph, distance=12)), '\n')
+            markov_graph, distance=random.randint(5,12)), '\n')
