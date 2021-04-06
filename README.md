@@ -2,6 +2,8 @@
 
 ## This is a simple Markov chain text generator, using some of the most known quotes from the cult-movie "The Big Lebowski" starring "the Dude".
 
+### The code is inspired by this [article](https://www.jeffcarp.com/posts/2019/markov-chain-python/) 
+
 ## Some of the best new quotes that this script has created:
 - yeah well you're mr lebowski, i'm the cable, careful man
 - this is what happens when you fuck up donny, that or uh
